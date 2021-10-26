@@ -8,7 +8,7 @@ The agent needs to learn to maneuver via neural network + evolution.
 ## Game Modes
 Helicopter             |  Gravity          |  Thrust
 :-------------------------:|:-------------------------:|:-------------------------:
-![Helicopter](https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/helicopter.png?raw=true)  |  ![Gravity](https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/gravity.png?raw=true) | ![Thrust](https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/thrust.png?raw=true)
+![Helicopter](https://github.com/m4hdin4/Evolutionary-Games/blob/main/screenshots/helicopter.png?raw=true)  |  ![Gravity](https://github.com/m4hdin4/Evolutionary-Games/blob/main/screenshots/gravity.png?raw=true) | ![Thrust](https://github.com/m4hdin4/Evolutionary-Games/blob/main/screenshots/thrust.png?raw=true)
 
 ## Contributors
 - [Hossein Zaredar](https://github.com/HosseinZaredar)
